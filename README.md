@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning: <a href="https://www.coursera.org/professional-certificates/ibm-data-engineer" target="_blank">IBM Data Engineering Professional Certificate</a>.
   <br><a href="https://www.coursera.org/learn/introduction-to-data-engineering" target="_blank">Introduction to Data Engineering</a> ✅
-  <br><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai" target="_blank">Python for Data Science, AI & Development</a> ⏳
+  <br><a href="https://www.coursera.org/learn/python-for-applied-data-science-ai" target="_blank">Python for Data Science, AI & Development</a> ✅
+  <br><a href="https://www.coursera.org/learn/python-project-for-data-engineering" target="_blank">Python Project for Data Engineering</a> ⏳
 - 📫 How to reach me: izzanurafifah@gmail.com.
 - ⚡ Fun fact: I'm not just a keyboard warrior, I'm also a baller, a cyclist, and a musician. Just don't ask me to do all three at once.
 
