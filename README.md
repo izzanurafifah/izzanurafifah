@@ -1,6 +1,6 @@
 ## Hello, world! 👋 I'm Izza.
 
-<p align="justify">I am a graduate with a Bachelor's degree in Telecommunication Engineering, with a focus on Final Project in the field of Internet of Things.</p>
+<p align="justify">I am a graduate with a Bachelor's degree in Telecommunication Engineering under the Department of Electrical Engineering, with a focus on Final Project in the field of Internet of Things.</p>
 
 - 🌱 I’m currently learning: Artificial Intelligence (AI) and Machine Learning (ML).
 - 📫 How to reach me: izzanurafifah@gmail.com.
